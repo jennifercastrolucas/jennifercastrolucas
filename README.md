@@ -1,3 +1,4 @@
+![image](https://user-images.githubusercontent.com/92461338/150260513-1ad9661f-3ed5-4c2e-bc0f-330a0029fb49.png)
 Olá, eu sou a Jennifer Lucas <br>
 Atualmente estou estudando Desenvolvimento Web começando pelo básico HTML, CSS E JAVASCRIPT
 <div align="center">
