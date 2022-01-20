@@ -1,6 +1,7 @@
 
 Olá, eu sou a Jennifer Lucas <br>
-Atualmente estou estudando Desenvolvimento Web começando pelo básico HTML, CSS E JAVASCRIPT
+Atualmente estou estudando desenvolvimento web começando pelo básico HTML, CSS e JAVASCRIPT.
+
 <div align="center">
   <a href="https://https://github.com/jennifercastrolucas">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jennifercastrolucas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
