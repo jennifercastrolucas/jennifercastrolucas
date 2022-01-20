@@ -2,7 +2,7 @@ Olá, eu sou a Jennifer Lucas <br>
 Atualmente estou estudando Desenvolvimento Web começando pelo básico HTML, CSS E JAVASCRIPT
 <div align="center">
   <a href="https://https://github.com/jennifercastrolucas">
-  <img align= "center" height="180em" src="https://github-readme-stats.vercel.app/api?username=jennifercastrolucas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jennifercastrolucas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jennifercastrolucas&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block">
